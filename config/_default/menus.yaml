@@ -1,0 +1,58 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: f3a9b87f-ae46-19ac-c22e-26e53776f5b9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1398660d-c2ec-6b96-9eaf-683eb39ed275
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 318f4711-72f9-9564-d4ec-eb999e58f528
+  name: "Module 1 \u2013 Sessions 1-7"
+  pageRef: /pages/assignments/module-1-2013-sessions-1-7
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 40
+- identifier: 9cff99dc-51b3-889f-afda-38c2c1de9cea
+  name: "Module 2 \u2013 Sessions 8-14"
+  pageRef: /pages/assignments/module-2-2013-sessions-8-14
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 50
+- identifier: 7e1321cc-0a50-6347-9477-a1c8053a5a0f
+  name: "Module 3 \u2013 Sessions 15-21"
+  pageRef: /pages/assignments/module-3-2013-sessions-15-21
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 60
+- identifier: 1807fbb1-e83f-d3f2-8931-2e46cbf55a29
+  name: "Module 4 \u2013 Sessions 22\u201327"
+  pageRef: /pages/assignments/module-4-2013-sessions-22201327
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 70
+- identifier: 95bb6d67-1742-9bb8-5a88-8652f3e92c2e
+  name: "Module 5 \u2013 Sessions 28\u201333"
+  pageRef: /pages/assignments/module-5-2013-sessions-28201333
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 80
+- identifier: 6a6cd460-f53a-f080-5f2b-1a40b09d5e0c
+  name: "Module 6 \u2013 Sessions 34\u201338"
+  pageRef: /pages/assignments/module-6-2013-sessions-34201338
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 90
+- identifier: 0c522bbf-2bbc-f678-3bee-e3ae19bf7a7d
+  name: Instructions on Lingt Speaking Assignments
+  pageRef: /pages/assignments/instructions-on-lingt-speaking-assignments
+  parent: 2e248f7a-7cea-4043-bdfa-3ea385e38941
+  weight: 100
+- identifier: 1a1feffb-eefd-09b4-bfbd-3630e69645be
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 110
+- identifier: 7386c1f2-653a-8c0f-935f-5674e8c65c7e
+  name: Tools and Resources
+  pageRef: /pages/tools-and-resources
+  weight: 120
