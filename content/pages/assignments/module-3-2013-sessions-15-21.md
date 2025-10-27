@@ -2,8 +2,6 @@
 content_type: page
 description: This page provides details of all assignments and in-class activities
   in module 3 from sessions 15 to 21.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -107,7 +105,7 @@ Check Lingt Speaking Assignment Six and complete it before the class.
 2.  Study the Vocabulary (listen to the audio files).
 3.  Read the text on pp. 98–99 (listen to the audio files). Write on your book the answer to the questions in the exercises on pp. 98 and 100–101.
 4.  Read Dialogue on pp. 101–2 (listen to the Audio files).
-5.  Please prepare one question about the text. And watch [This Clip (3x5 记不住，背九九乘法表大哭)](https://www.youtube.com/watch?v=9SpjHiPK7jQ) on Youtube.
+5.  Please prepare one question about the text. And watch {{% resource_link "a1d373e5-31ba-4b56-8906-f66427324bda" "This Clip (3x5 记不住，背九九乘法表大哭)" %}} on Youtube.
 
 Study Lesson 15 required characters.
 

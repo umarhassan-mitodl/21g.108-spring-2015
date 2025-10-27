@@ -6,8 +6,6 @@ description: "This resource contains information regarding Yi Hu Yi Xi Tan / \u4
 file: /courses/21g-108-chinese-ii-streamlined-spring-2015/1d2db4454e845de837f07dcea9eef4c2_MIT21G_108S15_Vocabulary.pdf
 file_size: 692176
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

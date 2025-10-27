@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, Chinese characters and Pinyin, required learning materials, recommended
   dictionaries, classroom activities, writing, grading, the end-of-term essay, advice
   on approaching the class, and the grading rubric for presentations.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

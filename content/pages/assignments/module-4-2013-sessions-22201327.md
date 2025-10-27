@@ -78,7 +78,7 @@ Writing Assignments:
 1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage." on pp. 126–7 on a piece paper and hand them in in class.
 2.  (Handwrite) Write a composition of no less than 180 characters on Apple (苹果 / 蘋果), but the content has to be related to your _Major_. It could be from a research point of view or marking point of view or the idea of apply in your field.
 
-For example, if you are computer major, write the essay on Apply that could relate to your major. You might need to use new vocabulary and there are several online dictionaries in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools / Resources" %}}. For example, [海词](http://dict.cn).
+For example, if you are computer major, write the essay on Apply that could relate to your major. You might need to use new vocabulary and there are several online dictionaries in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools / Resources" %}}. For example, {{% resource_link "7326c921-4e5e-4fe6-87cf-1edcd1c21aaa" "海词" %}}.
 
 It is not a research paper but a description one that is related to your own studies.
 
